@@ -1,2 +1,4 @@
 # Flutter-Mobile-Course
-Fall 2022 - CSC422 - Mobile Device Course: Flutter
+## Semester: Fall 2022 
+## Couse Code: CSC422 
+## Course Title: Mobile Device Course: Flutter
